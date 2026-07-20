@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lifestealFullVanila.aternos.me",
+    "ip": "lifestealFullVanila.aternos.me:56498",
     "port": 56498,
     "version": "1.21.11",
     "try-creative": false
