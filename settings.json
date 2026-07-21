@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "sigma_bobercin",
-    "password": "Stasev.002",
-    "type": "offline"
+    "username": "Tehnoblade",
+    "password": "",
+    "type": "online"
   },
   "server": {
     "ip": "lifestealFullVanila.aternos.me:56498",
